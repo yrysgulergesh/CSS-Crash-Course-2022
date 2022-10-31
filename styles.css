@@ -3,7 +3,7 @@
 } */
 
 .error {
-    color: red;
+    color: rgba(250, 15, 15, 0.705);
 }
 
 .success {
@@ -12,4 +12,12 @@
 
 #test {
     color: maroon;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
 }
