@@ -16,6 +16,10 @@
 
 .orange {
     background-color: orange;
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 4px;
+    word-spacing: 20px;
 }
 
 .yellow {
@@ -28,4 +32,8 @@
     font-weight: bold;
     text-decoration: underline;
     font-size: 50px;
+}
+
+ul {
+    list-style-type: square;
 }
