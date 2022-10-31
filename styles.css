@@ -1,10 +1,15 @@
 /* * {
     color: blue;
 } */
+
 .error {
     color: red;
 }
 
 .success {
     color: green;
+}
+
+#test {
+    color: maroon;
 }
