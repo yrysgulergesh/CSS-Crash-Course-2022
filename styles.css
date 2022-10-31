@@ -54,3 +54,10 @@ h2 {
 h2 {
     color: blue;
 }
+
+h3 {
+    color: red !important;
+}
+#title {
+    color: orange;
+}
