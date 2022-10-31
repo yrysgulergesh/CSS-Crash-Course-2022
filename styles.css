@@ -1,4 +1,10 @@
-h1 {
+/* * {
     color: blue;
+} */
+.error {
+    color: red;
 }
 
+.success {
+    color: green;
+}
