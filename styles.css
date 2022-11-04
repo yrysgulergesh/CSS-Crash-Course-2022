@@ -120,9 +120,14 @@ td {
   font-size: 1.5em;
 }
 
+/* .rem {
+  font-size: 3rem;
+  height: calc(50vh - 100px);
+  border: 1px solid #333;
+} */
+
 .rem {
   font-size: 3rem;
-  height: 50vh;
+  height: max(50vh, 600px);
   border: 1px solid #333;
-  width: 50vw;
 }
